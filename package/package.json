@@ -1,9 +1,10 @@
 {
-  "name": "main",
+  "name": "package",
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
   "devDependencies": {
     "parcel": "^2.0.0-nightly.140"
-  }
+  },
+  "main": "dist/main.js"
 }
